@@ -14,8 +14,8 @@ Berikut ini adalah Koleksi yang dimiliki:
 10. [Verity Colleen Hoover](ebook/Verity Colleen Hoover.pdf) – Colleen Hoover (2018)
 11. [The Fall Albert Camus](ebook/The Fall Albert Camus.pdf) – Albert Camus (1956)
 12. [Transforming Libraries through Information Technology](ebook/Transforming Libraries through Information Technology.pdf) – Titis Meilita (2026)
-## Nama: Titis Meilita
-## Nim: 13040124130069
+### Nama: Titis Meilita
+#### Nim: 13040124130069
 
 ---
 *Powered by GitHub Pages*

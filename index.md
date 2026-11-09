@@ -16,4 +16,9 @@ Berikut ini adalah Koleksi yang dimiliki:
 12. [Transforming Libraries through Information Technology](ebook/Transforming Libraries through Information Technology.pdf) – Titis Meilita (2026)
 13. 
 ---
+
+Nama: Titis Meilita
+Nim: 13040124130069
+
+---
 *Powered by GitHub Pages*

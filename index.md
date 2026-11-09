@@ -18,8 +18,8 @@ Berikut ini adalah Koleksi yang dimiliki:
  
 ---
 
-Nama: Titis Meilita
-Nim: 13040124130069
+## Nama: Titis Meilita
+## Nim: 13040124130069
 
 ---
 *Powered by GitHub Pages*

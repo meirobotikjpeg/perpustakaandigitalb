@@ -13,6 +13,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [The Stranger Albert Camus](ebook/The Stranger Albert Camus.pdf) – Albert Camus (1942)
 10. [Verity Colleen Hoover](ebook/Verity Colleen Hoover.pdf) – Colleen Hoover (2018)
 11. [The Fall Albert Camus](ebook/The Fall Albert Camus.pdf) – Albert Camus (1956)
-12. 
+12. [Transforming Libraries through Information Technology](ebook/Transforming Libraries through Information Technology.pdf) - Titis Meilita (2026)
+13. 
 ---
 *Powered by GitHub Pages*
